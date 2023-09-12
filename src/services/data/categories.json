@@ -1,0 +1,183 @@
+ [
+      {
+        "id": "1",
+        "title_az": "Maliyyə və mühasibatlıq",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "2",
+        "title_az": "Bank və finans",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "3",
+        "title_az": "İdarəetmə və idarəetmə",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "4",
+        "title_az": "Mühasibat",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "5",
+        "title_az": "Maliyyə",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "6",
+        "title_az": "Maliyyə və finans",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "7",
+        "title_az": "Maliyyə və bank",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "8",
+        "title_az": "Maliyyə və idarəetmə",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "9",
+        "title_az": "Maliyyə və mühəndislik",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+
+    
+      },
+      {
+        "id": "11",
+        "title_az": "Marketinq, reklam, çap, nəşriyyat",
+        "status": "1",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "21",
+        "title_az": "İnformasiya texnologiyaları və proqramlaşdırma",
+        "status": "1",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "22",
+        "title_az": "Mühəndislik",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-12 06:58:44"
+      },
+      {
+        "id": "31",
+        "title_az": "Data Analitika",
+        "status": "1",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "34",
+        "title_az": "İnzibati, biznes və idarəetmə",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "40",
+        "title_az": "Pərakəndə satış və müştəri xidmətləri",
+        "status": "1",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "44",
+        "title_az": "Xidmət sahəsi",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "50",
+        "title_az": "Turizm, otel, restoran",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "52",
+        "title_az": "Logistika, nəqliyyat",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "56",
+        "title_az": "Hüquq və məhkəmə",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "60",
+        "title_az": "Səhiyyə",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "64",
+        "title_az": "Təhsil və elm",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "75",
+        "title_az": "Sənaye və kənd təsərrüfatı",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "81",
+        "title_az": "Tikinti və inşaat",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "86",
+        "title_az": "Dizayn, incəsənət",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "94",
+        "title_az": "Müxtəlif",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "95",
+        "title_az": "Media",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "96",
+        "title_az": "Təcrübə proqramı",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "100",
+        "title_az": "Sığorta",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      },
+      {
+        "id": "101",
+        "title_az": "İnsan resursları",
+        "created_at": "2023-01-11 05:38:50",
+        "updated_at": "2023-01-11 05:38:50"
+      }
+    
+    ]

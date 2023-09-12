@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "content_az": "1. Razılaşmanın tərəfləri – Buta Grup Azərbaycan (1iş.az) və istifadəçilərdir.",
+    "content_en":"1. The parties to the agreement are Buta Group Azerbaijan (1ish.az) and users.",
+    "content_ru":"1. Сторонами договора являются Buta Group Azerbaijan (1ish.az) и пользователи.",
+    "content_tr":"1. Sözleşmenin tarafları Buta Group Azerbaycan (1ish.az) ve kullanıcılardır."
+  },
+  {
+    "id": 2,
+    "content_az": "2. Razılaşma 1iş.az xidmətinin istifadəçiləri tərəfindən istifadə şərtlərini müəyyən edir.",
+    "content_en":"2. The Agreement defines the terms of use by users of the 1ish.az service.",
+    "content_ru":"2. Соглашение определяет условия использования пользователями сервиса 1ish.az.",
+    "content_tr":"2. Sözleşme, 1ish.az hizmetinin kullanıcılarının kullanım koşullarını tanımlar."
+  },
+  {
+    "id": 3,
+    "content_az": "3. İstifadəçi razılaşması aşağıda göstərilən hallarda tətbiq ediləcək: - Servis-İnternet şəbəkəsində, 1iş.az ünvanında yerləşdirilmiş məlumatlar Buta Grup Azərbaycan və istifadəçilər (razılaşma şərtlərini qəbul etmiş şəxslər) tərəfindən yerləşdirilmiş informasiyalardır. - Şəxsi kabinet - bu istifadəçilər tərəfindən yaradılmış və şəxsi informasiyaların (məlumatların) əlavə edilmiş məcmusudur. Hər hansı bir istifadəçinin yalnız bir şəxsi kabinetə malik olmaq hüququ vardır. - Servis xidmətlərindən və materiallarından istifadə edilmə qüvvədə olan qanunvericiliyin normaları, həmçinin də hazırkı razılaşma ilə tənzimlənir.",
+    "content_en": "3. The user agreement will be applied in the following cases: - On the Internet network, information located at the address 1ish.az is information placed by Buta Group Azerbaijan and users (individuals who have accepted the terms of the agreement). - Personal cabinet - this is a collection of personal information created by these users. Any user has the right to own only one personal cabinet. - The norms of legislation in force, as well as the current agreement, regulate the use of the service and materials of the service.",
+    "content_ru": "3. Соглашение пользователя будет применяться в следующих случаях: - В сети Интернет информация, размещенная по адресу 1ish.az, является информацией, размещенной Buta Group Azerbaijan и пользователями (физическими лицами, принявшими условия соглашения). - Личный кабинет - это совокупность личной информации, созданной этими пользователями. Любой пользователь имеет право иметь только один личный кабинет. - Нормы действующего законодательства, а также действующее соглашение регулируют использование услуги и материалов услуги.",
+    "content_tr": "3. Kullanıcı anlaşması aşağıdaki durumlarda uygulanır: - İnternet ağında, adres 1ish.az'daki bilgiler Buta Group Azerbaijan ve kullanıcılar (anlaşmanın şartlarını kabul eden bireyler) tarafından yerleştirilen bilgilerdir. - Kişisel kabin - bunlar bu kullanıcılar tarafından oluşturulan kişisel bilgilerin bir koleksiyonudur. Herhangi bir kullanıcının yalnızca bir kişisel kabini olma hakkı vardır. - Geçerli mevzuat normları ve ayrıca mevcut anlaşma, hizmetin ve hizmet malzemelerinin kullanımını düzenler."
+  },
+  {
+    "id": 4,
+    "content_az": "4. Servis xidmətlərindən istifadə edərək, istifadəçi hazırkı razılaşmanı və servis xidmətlərindən istifadə üzrə təlimatlara riayət etmək şərtlərini və öhdəliklərini qəbul edir.  - Buta Grup Azərbaycan istənilən vaxt birtərəfli qaydada hazırkı razılaşmanın şərtlərini dəyişdirmək hüququna malikdir. - İstifadəçi razılaşmanın şərtlərinə edilmiş dəyişikliklərlə razılaşmadığı halda o servisə girişdən imtina etməli və xidmətlərindən istifadəni dayandırmalıdır.",
+    "content_en": "4. By using the services, the user agrees to comply with the terms and obligations of the current agreement and the instructions for using the services.  - Buta Group Azerbaijan has the right to unilaterally change the terms of the current agreement at any time. - If the user does not agree to the modified terms of the agreement, they must refrain from accessing the service and cease using the services.",
+    "content_tr": "4. Hizmetleri kullanarak, kullanıcı geçerli anlaşmanın ve hizmetleri kullanma talimatlarının şartlarına uymayı ve yükümlülüklerini kabul eder.  - Buta Group Azerbaycan, geçerli anlaşmanın koşullarını istediği zaman tek taraflı olarak değiştirme hakkına sahiptir. - Kullanıcı, değiştirilmiş anlaşma şartlarına katılmazsa, hizmete erişimden kaçınmalı ve hizmetleri kullanmayı sonlandırmalıdır.",
+    "content_ru": "4. Используя услуги, пользователь соглашается соблюдать условия и обязательства текущего соглашения и инструкции по использованию услуг.  - Buta Group Azerbaijan имеет право односторонне изменять условия текущего соглашения в любое время. - Если пользователь не согласен с измененными условиями соглашения, он должен воздержаться от доступа к услуге и прекратить использование услуг."
+  }
+,  
+{
+  "id": 5,
+  "content_az": "5. 1iş.az istifadəçilərə servis xidmətlərindən istifadə və elanların yerləşdirilməsi, eləcə də axtarışı üzrə xidmətləri təklif edir.",
+  "content_en": "5. 1ish.az offers users services for utilizing and posting listings, as well as search-related services.",
+  "content_tr": "5. 1ish.az, kullanıcılara hizmetleri kullanma ve ilanları yerleştirme, ayrıca arama hizmetleri sunmaktadır.",
+  "content_ru": "5. 1ish.az предоставляет пользователям услуги по использованию и размещению объявлений, а также связанные с поиском услуги."
+}
+,
+{
+  "id": 6,
+  "content_az": "6. Digər xidmətlərin verilməsi xüsusi qaydalarla və/və ya razılaşmalarla tənzimlənə bilər.- Servisin bütün materialları və xidmətləri reklamla müşayiət oluna bilər. İstifadəçi bunu əvvəlcədən qəbul edir.",
+  "content_en": "6. Provision of other services may be regulated by special rules and/or agreements. All materials and services of the service may be accompanied by advertisements. The user accepts this in advance.",
+  "content_tr": "6. Diğer hizmetlerin sağlanması özel kurallar ve/veya anlaşmalarla düzenlenebilir. Hizmetin tüm materyalleri ve hizmetleri reklamlarla desteklenebilir. Kullanıcı bunu önceden kabul eder.",
+  "content_ru": "6. Предоставление других услуг может регулироваться специальными правилами и/или соглашениями. Все материалы и услуги службы могут сопровождаться рекламой. Пользователь соглашается с этим заранее."
+}
+,
+{
+  "id": 7,
+  "content_az": "7. İstifadəçi öz şifrəsini gizli saxlamağı öhdəsinə götürür. İstifadəçi öz elektron poçt ünvanından və şifrədən istifadə ilə bağlı əməliyyatlara, həmçinin də istifadəçinin şəxsi kabinetində yerinə yetirilən fəaliyyətlərə görə məsuliyyət daşıyır. İstifadəçi servis xidmətlərindən yalnız öz şəxsi elektron poçt ünvanı və şifrə ilə daxil olub istifadə etmək hüququna malikdir. Əgər istifadəçi şəxsi kabinetinə icazəsiz daxil olma halları ilə qarşılaşarsa, öz parolunu sərbəst dəyişməyi öhdəsinə götürür.",
+  "content_en": "7. The user undertakes to keep their password confidential. The user is responsible for operations carried out using their own email address and password, as well as for activities performed in the user's personal cabinet. The user has the right to access and use the service only with their own personal email address and password. If the user encounters unauthorized access to their personal cabinet, they take responsibility for changing their password.",
+  "content_tr": "7. Kullanıcı şifresini gizli tutmayı taahhüt eder. Kullanıcı, kendi e-posta adresi ve şifresini kullanarak yapılan işlemlerden ve kullanıcının kişisel kabininde gerçekleştirilen faaliyetlerden sorumludur. Kullanıcı, hizmete yalnız kendi kişisel e-posta adresi ve şifresi ile erişme ve kullanma hakkına sahiptir. Kullanıcı, kişisel kabinetine izinsiz erişimle karşılaşırsa, şifresini değiştirme konusunda sorumluluk taşır.",
+  "content_ru": "7. Пользователь обязуется хранить свой пароль в тайне. Пользователь несет ответственность за операции, выполняемые с использованием собственного адреса электронной почты и пароля, а также за деятельность, проводимую в личном кабинете пользователя. Пользователь имеет право на доступ и использование сервиса только с использованием собственного личного адреса электронной почты и пароля. Если пользователь сталкивается с несанкционированным доступом к своему личному кабинету, он несет ответственность за изменение своего пароля."
+}
+,
+{
+  "id": 8,
+  "content_az": "8. iş.az istifadəçilərin servisdə qeydiyyat zamanı təqdim etdiyi məlumatların həqiqətən təqdim edildiyi kimi doğruluğuna görə məsuliyyət daşımır.",
+  "content_en": "8. iş.az does not assume responsibility for the accuracy of the information provided by users during registration in the service.",
+  "content_tr": "8. iş.az, kullanıcıların servis kaydı sırasında sunduğu bilgilerin doğruluğu konusunda sorumluluk taşımaz.",
+  "content_ru": "8. Ресурс iş.az не несет ответственности за точность предоставленной пользователями информации во время регистрации в сервисе."
+}
+,
+{
+  "id": 9,
+  "content_az": "9. İstifadəçi tərəfindən başqa şəxslərin hüquqlarının və ya qüvvədə olan qanunvericiliyin pozulması halında, həmçinin başqa səbəblərdən, servis istifadəçi girişini məhdudlaşdırmaq və ya dayandırmaq hüququna malikdir.",
+  "content_en": "9. In case of violation of the rights of other individuals or applicable legislation by the user, as well as for other reasons, the service has the right to restrict or terminate user access.",
+  "content_tr": "9. Kullanıcı tarafından diğer bireylerin haklarının veya geçerli yasaların ihlal edilmesi durumunda ve ayrıca diğer nedenlerden ötürü, servis kullanıcı erişimini kısıtlama veya sonlandırma hakkına sahiptir.",
+  "content_ru": "9. В случае нарушения прав других лиц пользователем или действующего законодательства, а также по другим причинам, сервис имеет право ограничить или прекратить доступ пользователя."
+}
+,
+{
+  "id": 10,
+  "content_az": "10. iş.az istifadəçilərin tamamlanmayan informasiya və etibarsız məlumatlarını xüsusi icazə olmadan sistemdən silmək hüququna malikdir.",
+  "content_en": "10. iş.az has the right to delete incomplete or unreliable information and data from the system without special permission.",
+  "content_tr": "10. iş.az, eksik veya güvenilmez bilgileri ve verileri özel izin olmaksızın sistemden silme hakkına sahiptir.",
+  "content_ru": "10. У iş.az есть право удалять неполную или ненадежную информацию и данные из системы без специального разрешения."
+}
+
+]

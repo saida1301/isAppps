@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "content_az": "1. iş.az domen adının və saytın xüsusi sahibkarıdır.",
+    "content_en": "1. iş.az is the owner of the domain name and the website.",
+    "content_tr": "1. iş.az, alan adının ve web sitesinin sahibidir.",
+    "content_ru": "1. iş.az является владельцем доменного имени и веб-сайта."
+  }
+  ,
+  {
+    "id": 2,
+    "content_az": "2. Servisin funksiyalarına əsasən belə lisenziya, istisna olaraq istifadəçiyə servisin xidmətlərindən istifadə imkanının verilməsi və onlardan xeyirlərin alınması üçün nəzərdə tutulmuşdur.",
+    "content_en": "2. Based on the functions of the service, such a license is intended to provide the user with the opportunity to use the services of the service and to derive benefits from them, with exceptions.",
+    "content_tr": "2. Servisin işlevlerine dayalı olarak, böyle bir lisans, istisnalarla birlikte, kullanıcıya hizmetin hizmetlerinden yararlanma ve bundan faydalanma fırsatı sunmayı amaçlar.",
+    "content_ru": "2. На основе функций службы такая лицензия предназначена для предоставления пользователю возможности использовать услуги службы и извлекать из них пользу, с исключениями."
+  }
+  ,
+  {
+    "id": 3,
+    "content_az": "3. Servisin (1iş.az) surətinin çıxarılması, dəyişdirilməsi qadağan edilir.",
+    "content_en": "3. Copying or modification of the service's (1ish.az) image is prohibited.",
+    "content_tr": "3. Servisin (1iş.az) görüntüsünün kopyalanması veya değiştirilmesi yasaktır.",
+    "content_ru": "3. Запрещено копирование или изменение изображения службы (1ish.az)."
+  }
+  
+
+]

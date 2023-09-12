@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526513890144",
+    "project_id": "ismobile-c3962",
+    "storage_bucket": "ismobile-c3962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526513890144:android:6ae3c82cefeaa6ada57405",
+        "android_client_info": {
+          "package_name": "com.saida.isapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526513890144-mculcfgrlt7ff7di8pdhvej29jclhdr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saida.isapp",
+            "certificate_hash": "fe70dd4e16cb68ee0e0dde09de0531a747b5c156"
+          }
+        },
+        {
+          "client_id": "526513890144-eru4lqkdrt9ai5tm4qaq2ure48iarsq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5popG2WD9M2f_wB-BpFcwBC2r7t_dV-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526513890144-66g40obgtfa0t9of9lulrokpii75iglr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

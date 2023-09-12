@@ -1,0 +1,30 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ffbabfa1593, pid=19824, tid=22676
+#
+# JRE version: OpenJDK Runtime Environment Microsoft-7208460 (11.0.18+10) (build 11.0.18+10-LTS)
+# Java VM: OpenJDK 64-Bit Server VM Microsoft-7208460 (11.0.18+10-LTS, mixed mode, tiered, compressed oops, g1 gc, windows-amd64)
+# Problematic frame:
+# V  [jvm.dll+0x381593]
+#
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+
+#   
+#
+
+
+Command Line: -Xmx2048m 
+Host: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz, 8 cores, 7G,  Windows 11 , 64 bit Build 22621 (10.0.22621.2070)
+Time: Fri Aug 11 17:07:24 2023 Azerbaijan Standard Time elapsed time: 212.291219 seconds (0d 0h 3m 32s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000241b87c2000):  JavaThread "Asynchronous log dispatcher for DefaultDaemonConnection: socket connection from /127.0.0.1:58723 to /127.0.0.1:58781" [_thread_in_vm, id=22676, stack(0x0000005a80a00000,0x0000005a80b00000)]
+
+Stack: [0x0000005a80a00000,0x0000005a80b00000],  sp=0x0000005a80af8ba0,  free space=994k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x381593]
+V  [jvm.dll+0x62beb2]
+V  [jvm.dll+0x3812fe]

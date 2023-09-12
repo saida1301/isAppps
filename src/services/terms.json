@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "content_az": "1. 1iş.az istifadəçilərə qeydiyyat zamanı əlavə etdikləri elektron poçt ünvanları və ya qeyd olunmuş telefon nömrələrinə qısa mesaj göndərmək hüququna malikdir.",
+    "content_en": "1. 1ish.az has the right to send short messages to the email addresses or registered phone numbers added by users during registration.",
+    "content_tr": "1. 1ish.az, kullanıcıların kayıt sırasında ekledikleri e-posta adreslerine veya kayıtlı telefon numaralarına kısa mesaj gönderme hakkına sahiptir.",
+    "content_ru": "1. У 1ish.az есть право отправлять короткие сообщения на электронные адреса или зарегистрированные номера телефонов, добавленные пользователями во время регистрации."
+  }
+  ,
+  {
+    "id": 2,
+    "content_az": "2. Əlavə olaraq istifadəçi anlayır, qəbul edir və razılaşır ki, belə məktublar və mesajlar, təkliflər və ya reklam xarakterli mesajlar göndərilə bilər.",
+    "content_en": "2. Additionally, the user understands, accepts, and agrees that such letters and messages, offers, or messages of advertising nature can be sent.",
+    "content_tr": "2. Ayrıca, kullanıcı böyle mektupların ve mesajların, tekliflerin veya reklam niteliğindeki mesajların gönderilebileceğini anlar, kabul eder ve kabul eder.",
+    "content_ru": "2. Кроме того, пользователь понимает, принимает и соглашается с тем, что такие письма и сообщения, предложения или сообщения рекламного характера могут быть отправлены."
+  }
+,  
+{
+  "id": 3,
+  "content_az": "3. Administrasiya başqa istifadəçilər tərəfindən servisin səhifələrində İstifadəçi tərəfindən yerləşdirilmiş telefon nömrələrindən və elektron poçt ünvanlarından istifadəyə görə məsuliyyət daşımır.",
+  "content_en": "3. The administration is not responsible for the use of phone numbers and email addresses placed by the User on the pages of the service by other users.",
+  "content_tr": "3. Yönetim, Diğer kullanıcılar tarafından hizmetin sayfalarında Kullanıcı tarafından yerleştirilen telefon numaralarının ve e-posta adreslerinin kullanımından sorumlu değildir.",
+  "content_ru": "3. Администрация не несет ответственности за использование другими пользователями телефонных номеров и адресов электронной почты, размещенных Пользователем на страницах сервиса."
+}
+,
+{
+  "id": 4,
+  "content_az": "4. İstifadəçi təsdiqləyir ki, 1iş.az istifadəçilərə məktub və mesajları göndərmək məqsədi üçün elektron poçt ünvanlarını və telefon nömrələrini üçüncü şəxslərə vermək hüququna malikdir.",
+  "content_en": "4. The User acknowledges that 1ish.az has the right to provide email addresses and phone numbers to third parties for the purpose of sending letters and messages to users.",
+  "content_tr": "4. Kullanıcı, 1ish.az'ın kullanıcılara mektup ve mesaj göndermek amacıyla e-posta adreslerini ve telefon numaralarını üçüncü taraflara verme hakkına sahip olduğunu kabul eder.",
+  "content_ru": "4. Пользователь признает, что 1ish.az имеет право предоставлять адреса электронной почты и номера телефонов третьим лицам с целью отправки писем и сообщений пользователям."
+}
+,
+{
+  "id": 5,
+  "content_az": "5. İstifadəçinin administrasiya və ya servis moderatorları ilə əlaqə elektron poçt vasitəsilə həyata keçirilir.",
+  "content_en": "5. User's contact with the administration or service moderators is carried out via email.",
+  "content_tr": "5. Kullanıcının yönetim veya hizmet moderatörleri ile iletişimi e-posta aracılığıyla gerçekleştirilir.",
+  "content_ru": "5. Контакт пользователя с администрацией или модераторами сервиса осуществляется по электронной почте."
+}
+,
+{
+  "id": 6,
+  "content_az": "6. Digər xidmətlərin verilməsi xüsusi qaydalarla və/və ya razılaşmalarla tənzimlənə bilər.- Servisin bütün materialları və xidmətləri reklamla müşayiət oluna bilər. İstifadəçi bunu əvvəlcədən qəbul edir.",
+  "content_en": "6. Provision of other services may be regulated by specific rules and/or agreements. The service's materials and services may be accompanied by advertisements. The user agrees to this in advance.",
+  "content_tr": "6. Diğer hizmetlerin sağlanması özel kurallar ve/veya anlaşmalarla düzenlenebilir. Hizmetin materyalleri ve hizmetleri reklamlarla eşlik edebilir. Kullanıcı bunu önceden kabul eder.",
+  "content_ru": "6. Предоставление других услуг может регулироваться специальными правилами и/или соглашениями. Материалы и услуги сервиса могут сопровождаться рекламой. Пользователь соглашается с этим заранее."
+}
+,
+{
+  "id": 7,
+  "content_az": "7. İstifadəçi öz şifrəsini gizli saxlamağı öhdəsinə götürür. İstifadəçi öz elektron poçt ünvanından və şifrədən istifadə ilə bağlı əməliyyatlara, həmçinin də istifadəçinin şəxsi kabinetində yerinə yetirilən fəaliyyətlərə görə məsuliyyət daşıyır. İstifadəçi servis xidmətlərindən yalnız öz şəxsi elektron poçt ünvanı və şifrə ilə daxil olub istifadə etmək hüququna malikdir. Əgər istifadəçi şəxsi kabinetinə icazəsiz daxil olma halları ilə qarşılaşarsa, öz parolunu sərbəst dəyişməyi öhdəsinə götürür.",
+  "content_en": "7. The user undertakes to keep their password secret. The user is responsible for operations performed using their email address and password, as well as activities carried out in their personal account. The user has the right to access the service using only their own personal email address and password. If the user encounters unauthorized access to their personal account, they are responsible for changing their password.",
+  "content_tr": "7. Kullanıcı şifresini gizli tutmayı taahhüt eder. Kullanıcı, e-posta adresi ve şifre kullanılarak gerçekleştirilen işlemlerden ve kişisel hesapta gerçekleştirilen faaliyetlerden sorumludur. Kullanıcı, hizmete yalnız kendi kişisel e-posta adresi ve şifresiyle erişme hakkına sahiptir. Kullanıcı, kişisel hesabına izinsiz erişimle karşılaşırsa, şifresini değiştirme sorumluluğunu taşır.",
+  "content_ru": "7. Пользователь обязуется хранить свой пароль в тайне. Пользователь несет ответственность за операции, выполненные с использованием его адреса электронной почты и пароля, а также за действия, совершенные в личном аккаунте. Пользователь имеет право на доступ к сервису только с использованием своего личного адреса электронной почты и пароля. Если пользователь сталкивается с несанкционированным доступом к своему личному аккаунту, он обязуется изменить свой пароль."
+}
+
+]
